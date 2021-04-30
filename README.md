@@ -1,5 +1,7 @@
 # Web-Teknolojileri-Projesi
+
 Proje Amacı
+
 Derste öğrenilen bilgiler (HTML, CSS, Javascript vb.) kullanılarak bir web sitesi geliştirilmesi
 
 Proje Detayları

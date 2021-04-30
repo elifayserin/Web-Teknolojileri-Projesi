@@ -1,7 +1,9 @@
 # Web-Teknolojileri-Projesi
 Proje Amacı
 Derste öğrenilen bilgiler (HTML, CSS, Javascript vb.) kullanılarak bir web sitesi geliştirilmesi
+
 Proje Detayları
+
 -	Kendimi ve memleketimi tanıtan kişisel bir web sitesi uygulaması geliştireceğim.
 
 -	Site tasarımı olarak Bootstrap içeren responsive (çözünürlüğe göre değişen tasarım) (hazır tema kullanılamaz) bir yapı kullanacağım.
